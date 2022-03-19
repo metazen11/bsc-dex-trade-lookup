@@ -11,3 +11,4 @@ build/contracts/*
 test/
 test/*
 test-test.js
+arbCheck.log
