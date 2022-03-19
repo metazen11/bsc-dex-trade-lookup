@@ -4,6 +4,8 @@ const bakeryRouter = require('./bakeryRouter.json');
 const bakeryFactory = require('./bakeryFactory.json');
 const apeRouter = require('./apeRouter.json');
 const apeFactory = require('./apeFactory.json');
+const biSwapRouter = require('./biSwapRouter.json');
+const biSwapFactory = require('./biSwapFactory.json');
 
 module.exports = {
     pancakeRouter,
@@ -11,5 +13,7 @@ module.exports = {
     bakeryRouter,
     bakeryFactory,
     apeRouter,
-    apeFactory
+    apeFactory,
+    biSwapRouter,
+    biSwapFactory
 };
